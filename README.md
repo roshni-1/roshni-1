@@ -23,7 +23,8 @@
 📚 Lifelong learner, I'm on a perpetual journey to sharpen my skills and deepen my understanding. The data universe is vast, and I'm committed to staying at the cutting edge of its evolution, leveraging every opportunity to expand my AI arsenal.
 
 🌍 Join me as I traverse the data landscape, seeking insights, building models, and innovating with AI to shape a smarter, more connected world. Let's connect, collaborate, and together, harness the power of data and AI to drive change and innovation! 🚀"  
-  
+
+  Visit my website at https://roshni16yadav.wixsite.com/datascience
 
 <br/>  
 
@@ -37,7 +38,8 @@
 - 🤖 Ready for a tech chat! How do you see the future synergy between AI and blockchain shaping industries? 🌐🔗  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift swithed on at all times
+
   
 
 <br/>  
