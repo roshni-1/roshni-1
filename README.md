@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 📊 Data Science Explorer | 🤖 AI Enthusiast | 🌐 Curious Learner
 
-👋 Greetings! I'm Roshni, a dedicated explorer in the realm of data and artificial intelligence. With a hunger for insights and a fascination for the future, I'm on a quest to unravel the mysteries hidden within the numbers.
+👋 Hello! I'm Roshni, a dedicated explorer in the realm of data and artificial intelligence. With a hunger for insights and a fascination for the future, I'm on a quest to unravel the mysteries hidden within the numbers.
 
 🔍 As a data aficionado, I revel in the art of transforming raw information into meaningful stories. From wrangling datasets to extracting golden nuggets of knowledge, I'm driven by the thrill of uncovering patterns that drive informed decisions.
 
