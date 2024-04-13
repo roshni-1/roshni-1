@@ -16,9 +16,9 @@
 
 👋 Hello! I'm Roshni, a dedicated explorer in the realm of data and artificial intelligence. With a hunger for insights and a fascination for the future, I'm on a quest to unravel the mysteries hidden within the numbers.
 
-🔍 As a data aficionado, I revel in the art of transforming raw information into meaningful stories. From wrangling datasets to extracting golden nuggets of knowledge, I'm driven by the thrill of uncovering patterns that drive informed decisions.
+🔍 Currently Learning and Working on Generative Artificial Intelligence (GenAI). 
 
-⚙️ Embracing the power of AI, I believe in the magic of algorithms that simulate human intelligence. From machine learning's graceful dances with data to the neural networks that mimic our thought processes, I'm captivated by the possibilities AI brings to the table.
+⚙️ I believe in the magic of algorithms that simulate human intelligence. From machine learning's process with data to the neural networks that mimic our thought processes. 
 
 📚 Lifelong learner, I'm on a perpetual journey to sharpen my skills and deepen my understanding. The data universe is vast, and I'm committed to staying at the cutting edge of its evolution, leveraging every opportunity to expand my AI arsenal.
 
@@ -32,8 +32,6 @@
 ## Rapidfire  
   
 
--  I’m currently 🔭 Exploring the Cosmos of Natural Language Processing! 📚✨  
-  
 
 - 🤖 Ready for a tech chat! How do you see the future synergy between AI and blockchain shaping industries? 🌐🔗  
   
