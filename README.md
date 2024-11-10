@@ -61,9 +61,11 @@
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
-<a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Python" height="25" /></a>  
-<a href="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Jupyter" height="25" /></a>  
-<a href="https://upload.wikimedia.org/wikipedia/commons/4/4d/Hugging_Face_Logo.svg" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="HuggingFace" height="25" /></a>  
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
+![Hugging Face](https://upload.wikimedia.org/wikipedia/commons/4/4d/Hugging_Face_Logo.svg)
+
+</a>  
   
 </div>
 <br />
